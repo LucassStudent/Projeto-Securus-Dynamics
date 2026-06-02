@@ -6,6 +6,6 @@ Nesta etapa, foi elaborado o **diagrama de estados UML** do **Sistema Securus Dy
 
 ## 📌 Diagrama de Estados
 
-<img alt="Diagrama de Estados" src="../Diagrama de Estados.jpeg" />
+<img alt="Diagrama de Estados" src="Diagrama de Estados.jpeg" />
 
 ---
