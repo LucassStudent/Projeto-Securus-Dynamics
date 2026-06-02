@@ -22,4 +22,5 @@ Cada etapa contém os artefatos produzidos, como diagramas UML e documentação.
 ## 👨‍💻 Integrante
 
 **LucassStudent - Lucas Franco do Carmo RA: 10439830**
+
 **Artur-Campi - Artur Campi RA: 10436740**
