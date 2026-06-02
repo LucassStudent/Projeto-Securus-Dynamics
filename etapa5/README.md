@@ -11,3 +11,5 @@ Nesta etapa, foi elaborado o **diagrama de projeto UML** com abstrações e inte
 - Refinamento da arquitetura do sistema com abstrações
 
 ---
+
+![Diagrama de Projeto](Diagrama-de-Projeto.png)
