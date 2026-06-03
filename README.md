@@ -173,8 +173,6 @@ Monitoramento finalizado.
 
 ## 🎬 Vídeo de Apresentação
 
-> O vídeo deve demonstrar o sistema em execução, explicar a arquitetura e os diagramas UML produzidos.
-> **Todos os integrantes do grupo devem aparecer na apresentação.**
 
 📹 **[Clique aqui para assistir ao vídeo demo]()**
 
