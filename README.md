@@ -1,9 +1,6 @@
 # 🛡️ Projeto Securus Dynamics
 ### Sistema Falcão Sombrio — Controle de Drones Militares Autônomos
 
-> Projeto acadêmico hipotético desenvolvido para a disciplina de **Projeto de Software** — Universidade Mackenzie, 2026.
-> Consultoria fictícia: **Cyber Bullet System** para a empresa fictícia **Securus Dynamics**.
-
 ---
 
 ## 📋 Contextualização
