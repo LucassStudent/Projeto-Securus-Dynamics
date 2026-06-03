@@ -174,7 +174,7 @@ Monitoramento finalizado.
 ## 🎬 Vídeo de Apresentação
 
 
-📹 **[Clique aqui para assistir ao vídeo demo](https://www.youtube.com/watch?v=sU2EIHprQyI)**
+📹 **[Clique aqui para assistir a apresentação](https://www.youtube.com/watch?v=sU2EIHprQyI)**
 
 ---
 
