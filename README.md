@@ -40,17 +40,6 @@ A consultoria fictícia **Cyber Bullet System** foi contratada para reformular t
 
 ---
 
-## 🔍 Problemas a Resolver
-
-| # | Problema | Descrição |
-|---|----------|-----------|
-| 1 | **Arquitetura Deficiente** | Latência elevada, interrupções durante missões críticas e ausência de failover automático |
-| 2 | **Segurança** | Necessidade de autenticação robusta, criptografia e logs de auditoria imutáveis |
-| 3 | **Banco de Dados** | Sincronização em tempo real, histórico de missões e replicação distribuída |
-| 4 | **SO e Concorrência** | Gerenciamento de múltiplas threads (sensores, navegação, IA) com priorização por criticidade |
-
----
-
 ## 📂 Estrutura do Repositório
 
 O repositório está organizado por etapas de desenvolvimento do projeto. Cada etapa contém os artefatos produzidos, como diagramas UML, documentação e código-fonte.
